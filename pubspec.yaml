@@ -36,9 +36,9 @@ flutter:
   # adding or updating assets for this project.
   plugin:
     platforms:
-      android:
-        package: com.excprotection.payment
-        pluginClass: PaymentPlugin
+#      android:
+#        package: com.excprotection.payment
+#        pluginClass: PaymentPlugin
       ios:
         pluginClass: PaymentPlugin
 
